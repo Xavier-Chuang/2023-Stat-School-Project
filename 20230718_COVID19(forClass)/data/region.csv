@@ -1,0 +1,33 @@
+no,Start,Stop,Width,Gene_symbol,Product,name
+1,1,29903,29903,,whole genome,whole genome
+2,266,29674,29409,,whole genome rm two ends,whole genome rm two ends
+3,266,21555,21290,ORF1ab,ORF1ab polyprotein,ORF1ab polyprotein
+4,266,13483,13218,ORF1ab,ORF1a polyprotein,ORF1a polyprotein
+5,13468,21555,8088,ORF1b,ORF1b,ORF1b
+6,266,805,540,ORF1ab,leader protein,nsp1 (leader protein)
+7,806,2719,1914,ORF1ab,nsp2,nsp2
+8,2720,8554,5835,ORF1ab,nsp3,nsp3
+9,8555,10054,1500,ORF1ab,nsp4,nsp4
+10,10055,10972,918,ORF1ab,3C-like proteinase,nsp5 (3C-like proteinase)
+11,10973,11842,870,ORF1ab,nsp6,nsp6
+12,11843,12091,249,ORF1ab,nsp7,nsp7
+13,12092,12685,594,ORF1ab,nsp8,nsp8
+14,12686,13024,339,ORF1ab,nsp9,nsp9
+15,13025,13441,417,ORF1ab,nsp10,nsp10
+16,13442,13480,39,ORF1ab,nsp11,nsp11
+17,13468,16236,2769,ORF1ab,RNA-dependent RNA polymerase,nsp12 (RNA-dependent RNA polymerase)
+18,16237,18039,1803,ORF1ab,helicase,nsp13 (helicase)
+19,18040,19620,1581,ORF1ab,3'-to-5' exonuclease,nsp14 (3'-to-5' exonuclease)
+20,19621,20658,1038,ORF1ab,endoRNAse,nsp15 (endoRNAse)
+21,20659,21552,894,ORF1ab,2'-O-ribose methyltransferase,nsp16 (2'-O-ribose methyltransferase)
+22,21563,25384,3822,S,surface glycoprotein,surface glycoprotein
+23,22553,23134,582,S,receptor binding domain,receptor binding domain
+24,25393,26220,828,ORF3a,ORF3a protein,ORF3a protein
+25,26245,26472,228,E,envelope protein,envelope protein
+26,26523,27191,669,M,membrane glycoprotein,membrane glycoprotein
+27,27202,27387,186,ORF6,ORF6 protein,ORF6 protein
+28,27394,27759,366,ORF7a,ORF7a protein,ORF7a protein
+29,27756,27887,132,ORF7b,ORF7b,ORF7b
+30,27894,28259,366,ORF8,ORF8 protein,ORF8 protein
+31,28274,29533,1260,N,nucleocapsid phosphoprotein,nucleocapsid phosphoprotein
+32,29558,29674,117,ORF10,ORF10 protein,ORF10 protein
